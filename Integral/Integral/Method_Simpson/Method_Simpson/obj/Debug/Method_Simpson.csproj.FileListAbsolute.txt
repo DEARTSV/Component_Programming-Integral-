@@ -1,0 +1,4 @@
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\Компонентное програмиирование\Integral\Integral\Method_Simpson\Method_Simpson\bin\Debug\Method_Simpson.dll
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\Компонентное програмиирование\Integral\Integral\Method_Simpson\Method_Simpson\bin\Debug\Method_Simpson.pdb
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\Компонентное програмиирование\Integral\Integral\Method_Simpson\Method_Simpson\obj\Debug\Method_Simpson.dll
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\Компонентное програмиирование\Integral\Integral\Method_Simpson\Method_Simpson\obj\Debug\Method_Simpson.pdb

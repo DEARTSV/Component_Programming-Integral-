@@ -1,0 +1,5 @@
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\Компонентное програмиирование\Integral\Integral\Deriv\Deriv\obj\Debug\Deriv.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\Компонентное програмиирование\Integral\Integral\Deriv\Deriv\bin\Debug\Deriv.dll
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\Компонентное програмиирование\Integral\Integral\Deriv\Deriv\bin\Debug\Deriv.pdb
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\Компонентное програмиирование\Integral\Integral\Deriv\Deriv\obj\Debug\Deriv.dll
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\Компонентное програмиирование\Integral\Integral\Deriv\Deriv\obj\Debug\Deriv.pdb

@@ -1,0 +1,4 @@
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\Компонентное програмиирование\Integral\Integral\Method_Rectangle\Method_Rectangle\bin\Debug\Method_Rectangle.dll
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\Компонентное програмиирование\Integral\Integral\Method_Rectangle\Method_Rectangle\bin\Debug\Method_Rectangle.pdb
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\Компонентное програмиирование\Integral\Integral\Method_Rectangle\Method_Rectangle\obj\Debug\Method_Rectangle.dll
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\Компонентное програмиирование\Integral\Integral\Method_Rectangle\Method_Rectangle\obj\Debug\Method_Rectangle.pdb

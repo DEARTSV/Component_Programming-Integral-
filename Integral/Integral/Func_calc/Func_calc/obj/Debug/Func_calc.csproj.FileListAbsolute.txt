@@ -1,0 +1,4 @@
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\Компонентное програмиирование\Integral\Integral\Func_calc\Func_calc\bin\Debug\Func_calc.dll
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\Компонентное програмиирование\Integral\Integral\Func_calc\Func_calc\bin\Debug\Func_calc.pdb
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\Компонентное програмиирование\Integral\Integral\Func_calc\Func_calc\obj\Debug\Func_calc.dll
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\Компонентное програмиирование\Integral\Integral\Func_calc\Func_calc\obj\Debug\Func_calc.pdb

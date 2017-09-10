@@ -1,0 +1,5 @@
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\Компонентное програмиирование\Integral\Integral\Method_Trapeze\Method_Trapeze\bin\Debug\Method_Trapeze.dll
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\Компонентное програмиирование\Integral\Integral\Method_Trapeze\Method_Trapeze\bin\Debug\Method_Trapeze.pdb
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\Компонентное програмиирование\Integral\Integral\Method_Trapeze\Method_Trapeze\obj\Debug\Method_Trapeze.dll
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\Компонентное програмиирование\Integral\Integral\Method_Trapeze\Method_Trapeze\obj\Debug\Method_Trapeze.pdb
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\Компонентное програмиирование\Integral\Integral\Method_Trapeze\Method_Trapeze\obj\Debug\Method_Trapeze.csprojResolveAssemblyReference.cache
